@@ -74,7 +74,7 @@ def path(curr, dest, ttl, idx):
         path(nxt,dest,ttl+1,idx+1)
 
 def main():
-    ip_list=['5.12.25.25']
+    ip_list=['14.199.255.165','41.48.253.69','103.26.68.26']
     my_ip='89.34.210.62'
     #my_ip='1.1.1.123'
 
